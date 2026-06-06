@@ -1,42 +1,41 @@
-# Zero Date &hearts;
+# Zero Date &hearts; &hearts; &hearts;
 
 Zero Date helps you find people you crossed paths with recently, if they also use the app.
 
-The app shows nearby matches on a map, lets you open a profile photo, send a like, and start a message when the meeting rule allows it.
+&hearts; See matched people on a live map.  
+&hearts; Open profile photos fullscreen.  
+&hearts; Send likes and messages after a real route crossing.  
+&hearts; Get notifications for new likes and messages.  
+&hearts; Look back through the last day with an exact time selector.  
+&hearts; Filter visible people by gender and age.
 
 ## Install
 
-1. Open the latest Zero Date release:
+1. Open the latest release:  
    https://github.com/CyberRSR/zero_date/releases/latest
 2. Download the APK file.
-3. Open the downloaded file on Android and confirm installation.
+3. Open the downloaded APK on Android and confirm installation.
 
 Android may ask permission to install apps from your browser or file manager. This is normal for APK installation outside Google Play.
 
 ## Update
 
-Open **About** inside Zero Date and tap **Check update**.
+Open **About** in Zero Date and tap **Check update**.
 
 The app downloads the newest APK from GitHub Releases and opens the Android installer. Android always asks you to confirm the update.
 
-## What You Can Do
+## Tips
 
-&hearts; Find people whose route crossed yours.
+Keep **Track** enabled when you want Zero Date to find crossings.
 
-&hearts; See matched users on the map.
+Use a clear profile photo so people can recognize you after a match.
 
-&hearts; Move the time slider to look through the last day.
+## Community
 
-&hearts; Filter visible users by gender and age.
+Telegram: https://t.me/zero0date
 
-&hearts; Open a profile photo fullscreen.
+GitHub: https://github.com/CyberRSR/zero_date
 
-&hearts; Send likes and messages to people you can interact with.
-
-&hearts; Receive notifications for new likes and messages.
-
-## Notes
+## Android
 
 Zero Date is an MVP test build for Android 8 and newer.
-
-Use a real profile photo and keep location tracking enabled when you want the app to find route matches.
