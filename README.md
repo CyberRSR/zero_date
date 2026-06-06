@@ -9,6 +9,26 @@ Zero Date helps you find people you crossed paths with recently, if they also us
 &hearts; Look back through the last day with an exact time selector.  
 &hearts; Filter visible people by gender and age.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="scr/photo_2026-06-07_02-03-44.jpg" alt="Zero Date screenshot 1" width="220"></td>
+    <td><img src="scr/photo_2026-06-07_02-03-49.jpg" alt="Zero Date screenshot 2" width="220"></td>
+    <td><img src="scr/photo_2026-06-07_02-03-53.jpg" alt="Zero Date screenshot 3" width="220"></td>
+  </tr>
+  <tr>
+    <td><img src="scr/photo_2026-06-07_02-03-57.jpg" alt="Zero Date screenshot 4" width="220"></td>
+    <td><img src="scr/photo_2026-06-07_02-04-01.jpg" alt="Zero Date screenshot 5" width="220"></td>
+    <td><img src="scr/photo_2026-06-07_02-04-04.jpg" alt="Zero Date screenshot 6" width="220"></td>
+  </tr>
+  <tr>
+    <td><img src="scr/photo_2026-06-07_02-04-08.jpg" alt="Zero Date screenshot 7" width="220"></td>
+    <td><img src="scr/photo_2026-06-07_02-04-14.jpg" alt="Zero Date screenshot 8" width="220"></td>
+    <td><img src="scr/photo_2026-06-07_02-04-19.jpg" alt="Zero Date screenshot 9" width="220"></td>
+  </tr>
+</table>
+
 ## Install
 
 1. Open the latest release:  
