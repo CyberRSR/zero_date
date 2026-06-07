@@ -59,3 +59,7 @@ GitHub: https://github.com/CyberRSR/zero_date
 ## Android
 
 Zero Date is an MVP test build for Android 8 and newer.
+
+## No viruses
+
+VirusTotal: https://www.virustotal.com/gui/url/f11fdc8603e97e1bffb0f69b7dc7e6c0ef5a53bd6fa61df72a23a8a1fba6ec6c , https://www.virustotal.com/gui/url/5b0a228ba4fada8261d3192310f483bfac00e5da26ad3474ae1e1901aedf1ba3?nocache=1
